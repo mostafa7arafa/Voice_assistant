@@ -1,0 +1,11 @@
+opencv-python
+numpy
+openai
+langchain
+langchain_community
+pyaudio
+SpeechRecognition
+python-dotenv
+Pillow
+mms
+git+https://github.com/openai/whisper.git
