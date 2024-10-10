@@ -1,5 +1,3 @@
----
-
 ```
 # Voice Assistant with Screen Capture and Speech Recognition
 
