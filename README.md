@@ -1,4 +1,4 @@
-```
+---
 # Voice Assistant with Screen Capture and Speech Recognition
 
 This Python project implements a voice assistant that captures the desktop screen, listens for user prompts via speech, and responds with audio output. It leverages OpenAI’s API for speech-to-text (STT) and text-to-speech (TTS), and uses Google Generative AI (`gemini-1.5-flash-latest`) for natural language processing (NLP) to generate responses based on the user’s voice input and desktop content.
@@ -164,6 +164,4 @@ You can obtain your API keys from:
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
-```
-
 ---
